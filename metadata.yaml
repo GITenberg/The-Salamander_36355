@@ -1,0 +1,38 @@
+_repo: The-Salamander_36355
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shinn, Everett
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '38228'
+    url: http://www.gutenberg.org/2009/agents/38228
+covers:
+- cover_type: archival
+  image_path: 36355-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Owen
+    alias: Johnson, Owen McMahon
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '4502'
+    url: http://www.gutenberg.org/2009/agents/4502
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2011-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+title: The Salamander
+url: http://www.gutenberg.org/ebooks/36355
